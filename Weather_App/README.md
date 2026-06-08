@@ -1,4 +1,4 @@
-# Advanced Smart Weather App
+# Weather App
 
 ## Description
 
