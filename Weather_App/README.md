@@ -2,7 +2,7 @@
 
 ## Description
 
-Advanced Smart Weather App is a Python-based GUI application developed using CustomTkinter. It provides real-time weather information for any city using an online weather API. The application displays temperature, humidity, wind speed, weather conditions, feels-like temperature, weather tips, and dynamic themes based on weather conditions.
+Weather App is a Python-based GUI application developed using CustomTkinter. It provides real-time weather information for any city using an online weather API. The application displays temperature, humidity, wind speed, weather conditions, feels-like temperature, weather tips, and dynamic themes based on weather conditions.
 
 ## Features
 
