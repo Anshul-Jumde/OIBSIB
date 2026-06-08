@@ -30,26 +30,3 @@ Advanced Smart Weather App is a Python-based GUI application developed using Cus
 * Requests Library
 * Datetime Module
 * wttr.in Weather API
-
-## How to Run
-
-1. Install Python
-
-2. Install required libraries:
-
-py -m pip install customtkinter requests
-
-3. Run the application:
-
-py weather_app.py
-
-## Project Structure
-
-Weather_App/
-│
-├── weather_app.py
-└── README.md
-
-## Author
-
-Anshul Jumde
